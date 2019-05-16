@@ -4,4 +4,5 @@ screenshots/
 *.png
 *.log
 *.map
+*.ts
 !*.d.ts
