@@ -1,8 +1,8 @@
 {
-  "name": "nativescript-ibeacon",
+  "name": "nativescript-ibeacon-android",
   "version": "0.8.1",
   "description": "iBeacon scanning support for Nativescript",
-  "main": "nativescript-ibeacon",
+  "main": "nativescript-ibeacon-android",
   "typings": "index.d.ts",
   "nativescript": {
     "platforms": {
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/demetrio812/nativescript-ibeacon.git"
+    "url": "https://github.com/BobbyShittu/nativescript-ibeacon-android.git"
   },
   "keywords": [
     "NativeScript",
